@@ -1,7 +1,5 @@
 # Sorting Visualizer
 
-Website  https://divyansh-sorting-visualizer.herokuapp.com/
-
 https://github.com/divyansh-pratap/divyansh-sorting-visualizer.git
 
 ![Project Image](https://github.com/divyansh-pratap/sorting-visualizer/blob/master/image/gif.gif)
