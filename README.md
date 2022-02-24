@@ -1,6 +1,6 @@
 # Sorting Visualizer
 
-https://github.com/divyansh-pratap/sorting-visualizer.git
+https://github.com/divyansh-pratap/divyansh-sorting-visualizer.git
 
 ![Project Image](https://github.com/divyansh-pratap/sorting-visualizer/blob/master/image/gif.gif)
 > [Live demo](https://divyansh-pratap.github.io/sorting-visualizer/)
